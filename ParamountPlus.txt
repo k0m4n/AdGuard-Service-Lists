@@ -10,6 +10,7 @@ moatads.com^
 doubleclick.net^
 adsafeprotected.com^
 ispot.tv^
+innovid.com^
 videoamp.com^
 #TRACKING DOMAINS REMOVE AT OWN RISK
 researchnow.com^
