@@ -1,3 +1,4 @@
+#CORE DOMAINS
 paramountplus.com^
 cbs.com^
 viacomcbs.com^
@@ -9,3 +10,7 @@ moatads.com^
 doubleclick.net^
 adsafeprotected.com^
 ispot.tv^
+videoamp.com^
+#TRACKING DOMAINS REMOVE AT OWN RISK
+researchnow.com^
+lkqd.net^
