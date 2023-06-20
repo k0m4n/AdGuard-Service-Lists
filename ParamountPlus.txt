@@ -2,5 +2,7 @@ paramountplus.com
 cbs.com
 viacomcbs.com
 akamaized.net
+#AD SERVERS ARE REQUIRED FOR BOTH AD AND NON-AD PLANS
+#DO NOT REMOVE
 doubleclick.net
 moatads.com
