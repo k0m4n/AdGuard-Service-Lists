@@ -1,3 +1,4 @@
 netflix.com^
 nflxext.com^
 jsdelivr.net^
+nflxso.net^
