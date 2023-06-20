@@ -1,10 +1,7 @@
-#CORE DOMAINS
 paramountplus.com^
 cbs.com^
 viacomcbs.com^
 akamaized.net^
-#AD SERVERS ARE REQUIRED FOR BOTH AD AND NON-AD PLANS
-#DO NOT REMOVE
 googlesyndication.com^
 moatads.com^
 doubleclick.net^
@@ -13,7 +10,6 @@ ispot.tv^
 innovid.com^
 videoamp.com^
 adsrvr.org^
-#TRACKING DOMAINS REMOVE AT OWN RISK
 researchnow.com^
 lkqd.net^
 samplicio.us^
