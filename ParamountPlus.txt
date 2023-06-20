@@ -10,3 +10,7 @@ securepubads.g.doubleclick.net
 googleads4.g.doubleclick.net
 z.moatads.com
 video.adsafeprotected.com
+googleads.g.doubleclick.net
+mb.moatads.com
+geo.moatads.com
+d3.moatads.com
