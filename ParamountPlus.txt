@@ -4,5 +4,9 @@ viacomcbs.com
 akamaized.net
 #AD SERVERS ARE REQUIRED FOR BOTH AD AND NON-AD PLANS
 #DO NOT REMOVE
-doubleclick.net
-moatads.com
+ade.googlesyndication.com
+px.moatads.com
+securepubads.g.doubleclick.net
+googleads4.g.doubleclick.net
+z.moatads.com
+video.adsafeprotected.com
