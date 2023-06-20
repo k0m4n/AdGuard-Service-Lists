@@ -1,16 +1,10 @@
-paramountplus.com
-cbs.com
-viacomcbs.com
-akamaized.net
+paramountplus.com^
+cbs.com^
+viacomcbs.com^
+akamaized.net^
 #AD SERVERS ARE REQUIRED FOR BOTH AD AND NON-AD PLANS
 #DO NOT REMOVE
-ade.googlesyndication.com
-px.moatads.com
-securepubads.g.doubleclick.net
-googleads4.g.doubleclick.net
-z.moatads.com
-video.adsafeprotected.com
-googleads.g.doubleclick.net
-mb.moatads.com
-geo.moatads.com
-d3.moatads.com
+googlesyndication.com^
+moatads.com^
+doubleclick.net^
+adsafeprotected.com^
