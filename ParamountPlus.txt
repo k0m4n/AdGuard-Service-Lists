@@ -12,6 +12,7 @@ adsafeprotected.com^
 ispot.tv^
 innovid.com^
 videoamp.com^
+adsrvr.org^
 #TRACKING DOMAINS REMOVE AT OWN RISK
 researchnow.com^
 lkqd.net^
