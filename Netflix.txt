@@ -1,0 +1,9 @@
+#
+
+netflix.com
+api-global.netflix.com
+assets.nflxext.com
+secure.netflix.com
+cdn.jsdelivr.net
+media.netflix.com
+help.netflix.com
