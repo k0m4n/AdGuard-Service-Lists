@@ -8,3 +8,4 @@ googlesyndication.com^
 moatads.com^
 doubleclick.net^
 adsafeprotected.com^
+ispot.tv^
